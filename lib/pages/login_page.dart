@@ -17,7 +17,7 @@ class LoginPage extends StatelessWidget {
               height: 20,
             ),
             Text(
-              "Welcome",
+              "Welcome 2021",
               style: TextStyle(
                 fontSize: 22,
                 fontWeight: FontWeight.bold,
